@@ -1,0 +1,21 @@
+/*noinspection CssInvalidPropertyValue*/
+table {
+    margin-left: 30px;
+    color: white;
+}
+
+tr td{
+    color: white;
+}
+
+tr{
+    text-align: left;
+    font-size: 18px;
+}
+tr:nth-child(odd){
+    background-color: #333333;
+}
+tr:first-child{
+    background-color: #111111;
+}
+
